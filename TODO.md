@@ -1,11 +1,5 @@
 # TODO
 
-- Improve/check Docs in last changes, deployments and reconsider Docs Changelog in sidebar
-
-- Integrate `test_release_smoke.py` into the CI/CD release pipeline so it runs automatically after `release.yml` completes successfully, validating the release end-to-end instead of relying on a manual post-release step.
-
-- Add automated release notifications (e.g. Discord, Slack, or email) for both successful and failed releases, so release status is communicated proactively rather than requiring developers to monitor the GitHub Actions page.
-
 - Add support to load any Terracotta config value from file just using `<field>Path` convention, e.g. `descriptionPath`
 - Add [Hangar provider-specific link settings](./plans/2026-07-add-hangar-provider-link-settings-plan.md)
 
@@ -56,3 +50,12 @@
 - Add [GitHub Provider](./designs/25-07-12-add-provider-github.md) (GitHub control-plane metadata: description, topics, homepage, license, lifecycle)
 - Add [GitHub Release Provider](./designs/25-07-12-add-provider-github-release.md) (GitHub Releases distribution, depends on Git Provider for tags)
 - Add to GitHub modules docs to clarify: `terracotta-github` (Pulumi infra), `terracotta-provider-github` (control provider), `terracotta-provider-github-release` (release provider), and `terracotta-provider-git` (host-agnostic Git CLI)
+
+---
+
+- Integrate `test_release_smoke.py` into the CI/CD release pipeline so it runs automatically after `release.yml` completes successfully, validating the release end-to-end instead of relying on a manual post-release step.
+
+- Add automated release notifications (e.g. Discord, Slack, or email), so release status is communicated proactively rather than requiring developers to monitor the GitHub Actions page.
+    - Add proactive notification mechanism for deployments and releases
+- Add contact point
+
