@@ -2,32 +2,24 @@
 
 ## DX
 
-- Organize and document AI agent configs using git worktree instead of putting all git agent configs at `main` branch
-
-- Make CI-CD granular for modules and DAG-based for dependency-based invalidation
-- Generate docs reference from source code
-- Generate `.github` at `terracotta-github` module (via Kotlin and Dagger with Java SDK)
-- Improve AI workflow
-    - Setup a16n
-
-- Add term color library
-
-- Add AI Skills
-
-- Move `release` script to its own repo
-- Move `deployment` script to its own repo
-- Move docs setup to its own repo
-- Look for a better way to load Pulumi secrets
-
-- Migrate `mkdocs` to SvelteKit
-    - Or, add formatter, linter and typechecker for Python
-
+- T-031 Organize and document AI agent configs using git worktree instead of putting all git agent configs at main branch
+- T-032 Make CI-CD granular for modules and DAG-based for dependency-based invalidation
+- T-033 Generate docs reference from source code
+- T-034 Generate .github at terracotta-github module (via Kotlin and Dagger with Java SDK)
+- T-035 Improve AI workflow Setup a16n
+- T-036 Add term color library
+- T-037 Add AI Skills
+- T-038 Move release script to its own repo
+- T-039 Move deployment script to its own repo
+- T-040 Move docs setup to its own repo
+- T-041 Look for a better way to load Pulumi secrets
+- T-042 Migrate mkdocs to SvelteKit Or, add formatter, linter and typechecker for Python
 
 ## Performance
 
-- Move docs deployments.json to its own API
+- T-043 Move docs deployments.json to its own API
 
 ## Features
 
-- Publish relevant package managers to our target users (Minecraft modders); update docs and README
-- Add [ViaVersion/Geyser Detection](./proposals/2026-07-viaversion-geyser-detection.md)
+- T-044 Publish relevant package managers to our target users (Minecraft modders); update docs and README
+- T-045 Add ViaVersion/Geyser Detection

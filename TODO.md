@@ -1,61 +1,32 @@
-# TODO
+# TODO — terracotta
 
-- Add support to load any Terracotta config value from file just using `<field>Path` convention, e.g. `descriptionPath`
-- Add [Hangar provider-specific link settings](./plans/2026-07-add-hangar-provider-link-settings-plan.md)
-
-- Add [Override Pattern](./designs/25-07-10-add-config-override-pattern.md)
-- Add [Fluent Gradle Plugin Config DSL](./plans/2026-07-12-fluent-gradle-plugin-config-dsl-plan.md)
-- Add [Import Task](./designs/26-07-12-add-task-import.md)
-
-- Rename `environment` to `gameEnvironment`
-
-- Finish [External YAML Configuration](./designs/26-07-10-add-config-external-yaml.md)
-
-- Add "create" task
-
-- Try migrate ClockTime to this project
-- Ask for friend feedback on the project
-
----
-
-- Add support for multiple Terracotta files
-    - Import mode
-    - `platform/` convention
-
-- Add [Terracotta Cloud](./designs/26-07-11-add-cloud-terracotta.md)  in a separate private repo
-    - Add website with auth, token management, billing (Stripe), etc
-- [gha] Add [Terracotta GHA Module](./designs/26-07-12-add-module-gha.md)
-
-- Add standalone CLI
-
-- Add Provider feature support table to integration docs
-
-- Add [Cloud Preview Service](./designs/25-07-12-add-cloud-preview-service.md) (paid Cloud plan, web UI + CLI)
-- Add [Terracotta Registry Gateway](./designs/26-07-11-add-cloud-registry-gateway.md)
-
----
-
-- Add [Config Validation](./designs/25-07-12-add-config-validation.md)
-
-- Add [Authentication Workflows](./designs/25-07-10-add-auth-workflows.md)
-
-- Add [Staging Environments](./designs/25-07-12-add-cloud-staging-environments.md) like Modrinth Staging
-
-- Add [YAML Schema for IDEs](./designs/26-07-11-add-ide-yaml-schema.md)
-
-- Add [CurseForge Provider](./designs/25-07-10-add-provider-curseforge.md)
----
-- Add [Provider Toposort](./designs/25-07-12-add-provider-toposort.md)
-- Add [Git Provider](./designs/25-07-12-add-provider-git.md) (host-agnostic Git CLI for tags and file commits)
-- Add [GitHub Provider](./designs/25-07-12-add-provider-github.md) (GitHub control-plane metadata: description, topics, homepage, license, lifecycle)
-- Add [GitHub Release Provider](./designs/25-07-12-add-provider-github-release.md) (GitHub Releases distribution, depends on Git Provider for tags)
-- Add to GitHub modules docs to clarify: `terracotta-github` (Pulumi infra), `terracotta-provider-github` (control provider), `terracotta-provider-github-release` (release provider), and `terracotta-provider-git` (host-agnostic Git CLI)
-
----
-
-- Integrate `test_release_smoke.py` into the CI/CD release pipeline so it runs automatically after `release.yml` completes successfully, validating the release end-to-end instead of relying on a manual post-release step.
-
-- Add automated release notifications (e.g. Discord, Slack, or email), so release status is communicated proactively rather than requiring developers to monitor the GitHub Actions page.
-    - Add proactive notification mechanism for deployments and releases
-- Add contact point
-
+- [ ] T-001 Add support to load any Terracotta config value from file just using \<field>Path convention, e.g. descriptionPath
+- [ ] T-002 Add Hangar provider-specific link settings
+- [ ] T-003 Add Override Pattern
+- [ ] T-004 Add Fluent Gradle Plugin Config DSL
+- [ ] T-005 Add Import Task
+- [ ] T-006 Rename environment to gameEnvironment
+- [ ] T-007 Finish External YAML Configuration
+- [ ] T-008 Add "create" task
+- [ ] T-009 Try migrate ClockTime to this project
+- [ ] T-010 Ask for friend feedback on the project
+- [ ] T-011 Add support for multiple Terracotta files Import mode platform/ convention
+- [ ] T-012 Add Terracotta Cloud in a separate private repo Add website with auth, token management, billing (Stripe), etc
+- [ ] T-013 \[gha] Add Terracotta GHA Module
+- [ ] T-014 Add standalone CLI
+- [ ] T-015 Add Provider feature support table to integration docs
+- [ ] T-016 Add Cloud Preview Service (paid Cloud plan, web UI + CLI)
+- [ ] T-017 Add Terracotta Registry Gateway
+- [ ] T-018 Add Config Validation
+- [ ] T-019 Add Authentication Workflows
+- [ ] T-020 Add Staging Environments like Modrinth Staging
+- [ ] T-021 Add YAML Schema for IDEs
+- [ ] T-022 Add CurseForge Provider
+- [ ] T-023 Add Provider Toposort
+- [ ] T-024 Add Git Provider (host-agnostic Git CLI for tags and file commits)
+- [ ] T-025 Add GitHub Provider (GitHub control-plane metadata: description, topics, homepage, license, lifecycle)
+- [ ] T-026 Add GitHub Release Provider (GitHub Releases distribution, depends on Git Provider for tags)
+- [ ] T-027 Add to GitHub modules docs to clarify: terracotta-github (Pulumi infra), terracotta-provider-github (control provider), terracotta-provider-github-release (release provider), and terracotta-provider-git (host-agnostic Git CLI)
+- [ ] T-028 Integrate test\_release\_smoke.py into the CI/CD release pipeline so it runs automatically after release.yml completes successfully, validating the release end-to-end instead of relying on a manual post-release step.
+- [ ] T-029 Add automated release notifications (e.g. Discord, Slack, or email), so release status is communicated proactively rather than requiring developers to monitor the GitHub Actions page. Add proactive notification mechanism for deployments and releases
+- [ ] T-030 Add contact point

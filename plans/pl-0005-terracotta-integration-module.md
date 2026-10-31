@@ -1,3 +1,10 @@
++++
+id = "PL-005"
+title = "Terracotta Integration Module"
+status = "open"
+priority = "medium"
++++
+
 ---
 description: Implementation plan for adding a non-published terracotta-integration module and relocating cross-module integration tests.
 ---

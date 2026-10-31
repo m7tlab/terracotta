@@ -1,3 +1,10 @@
++++
+id = "P-001"
+title = """Proposal: "What's New" Indicator on Docs Homepage"""
+status = "open"
+priority = "medium"
++++
+
 ---
 description: Add a "What's New" indicator on the docs homepage that highlights new deployment entries since the visitor's last visit, using localStorage and a createdAt diff.
 ---

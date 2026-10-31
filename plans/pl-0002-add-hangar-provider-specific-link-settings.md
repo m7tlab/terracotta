@@ -1,3 +1,10 @@
++++
+id = "PL-002"
+title = "Add Hangar Provider-Specific Link Settings"
+status = "open"
+priority = "medium"
++++
+
 ---
 description: Add provider-specific Hangar link configuration so users can customize Top labels and add Sidebar sections.
 ---

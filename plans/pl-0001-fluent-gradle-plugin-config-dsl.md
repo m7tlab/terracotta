@@ -1,3 +1,10 @@
++++
+id = "PL-001"
+title = "Fluent Gradle Plugin Config DSL"
+status = "open"
+priority = "medium"
++++
+
 ---
 description: Add a fluent, method-style DSL for the Terracotta Gradle plugin configuration system, keeping the existing Property<T> API intact.
 ---

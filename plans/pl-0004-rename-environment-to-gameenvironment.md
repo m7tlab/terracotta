@@ -1,3 +1,10 @@
++++
+id = "PL-004"
+title = "Rename `environment` to `gameEnvironment`"
+status = "open"
+priority = "medium"
++++
+
 ---
 description: Rename `environment` to `gameEnvironment` across the public API and documentation.
 ---
