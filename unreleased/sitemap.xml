@@ -2,366 +2,370 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/CHANGELOG/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/LICENSE/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
+    </url>
+    <url>
+         <loc>https://beduality.github.io/terracotta/unreleased/changes/</loc>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/last-changes/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/navigating-docs/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/integration/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/integration/explanation/design/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/integration/how-to-guides/adding-hangar-to-gradle-plugin/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/integration/how-to-guides/adding-modrinth-to-gradle-plugin/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/integration/how-to-guides/troubleshooting/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/integration/reference/provider-configuration/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/integration/tutorials/publishing-to-modrinth/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/overview/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/explanation/architecture/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/explanation/conventions/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/explanation/diff-engine/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/explanation/loader-hierarchy/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/explanation/metadata-resolution/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/explanation/provider-logic/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/explanation/state-management/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/how-to-guides/add-a-new-loader/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/how-to-guides/add-a-new-project-file-convention/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/how-to-guides/compute-a-diff/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/how-to-guides/load-terracotta-config/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/how-to-guides/normalize-game-versions/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/how-to-guides/resolve-project-metadata/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/reference/api/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/reference/config-schema/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/reference/conventions/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/reference/loaders/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/reference/metadata-resolution/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/reference/models/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/reference/operations/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/reference/provider-interfaces/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/reference/version-conventions/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/tutorials/implementing-a-custom-loader/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/tutorials/implementing-a-custom-metadata-detector/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/tutorials/implementing-a-custom-provider/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/core/tutorials/installation/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/gradle-plugin/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/gradle-plugin/explanation/architecture/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/gradle-plugin/explanation/dsl-design/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/gradle-plugin/explanation/task-lifecycle/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/gradle-plugin/how-to-guides/kotlin-dsl-configuration/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/gradle-plugin/reference/api/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/gradle-plugin/reference/tasks/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/gradle-plugin/tutorials/getting-started/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/gradle-plugin/tutorials/installation/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/provider-hangar/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/provider-hangar/explanation/architecture/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/provider-hangar/explanation/loader-mapping/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/provider-hangar/reference/api/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/provider-hangar/tutorials/using-hangar/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/provider-modrinth/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/provider-modrinth/explanation/architecture/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/provider-modrinth/explanation/version-mapping/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/provider-modrinth/reference/api/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/provider-modrinth/tutorials/using-modrinth/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/terracotta-state-filesystem/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/terracotta-state-filesystem/explanation/state-filesystem/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/terracotta-state-filesystem/how-to-guides/configure-filesystem-backend/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/terracotta-state-filesystem/reference/api/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/modules/terracotta-state-filesystem/reference/state-filesystem/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/explanation/architecture/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/explanation/branch-strategy/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/explanation/changelog/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/explanation/project-management/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/explanation/release-design/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/how-to-guides/building/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/how-to-guides/contributing/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/how-to-guides/documentation/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/how-to-guides/releasing/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/how-to-guides/smoke-testing-a-release/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/how-to-guides/testing/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/how-to-guides/writing-changelog/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/reference/branches/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/reference/changelog-guidelines/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/reference/ci-cd/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/reference/code-style/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/reference/commit-conventions/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/reference/configuration/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/reference/documentation-style/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/reference/file-structure/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/reference/project-files/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/reference/scripts/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/reference/tech-stack/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/tutorials/first-contribution/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/tutorials/navigating-the-codebase/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
     <url>
          <loc>https://beduality.github.io/terracotta/unreleased/content/repo/tutorials/quick-start/</loc>
-         <lastmod>2026-07-24</lastmod>
+         <lastmod>2026-11-02</lastmod>
     </url>
 </urlset>
